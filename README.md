@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Gerard Apruzzese. 
+My name is Gerard Apruzzese (he/him).
 
 I am a second year MPA student at Columbia SIPA, studying Urban Policy and Data Analytics. I have experience in Python, R, STATA, HTML, CSS, and PHP, specifically used to research evictions in the San Francisco Bay Area and the United States undocumented population. 
 
