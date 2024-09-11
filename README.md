@@ -1,4 +1,9 @@
-## Hi there 👋
+## About Me
+
+My name is Gerard Apruzzese. 
+
+I am a second year MPA student at Columbia SIPA, studying Urban Policy and Data Analytics. I have experience in Python, R, STATA, HTML, CSS, and PHP, specifically used to research evictions in the San Francisco Bay Area and the United States undocumented population. 
+
 
 <!--
 **gapruzzese/gapruzzese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
